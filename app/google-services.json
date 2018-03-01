@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "287915603824",
+    "firebase_url": "https://prodology2017.firebaseio.com",
+    "project_id": "prodology2017",
+    "storage_bucket": "prodology2017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287915603824:android:ef4503dd91ae1b8b",
+        "android_client_info": {
+          "package_name": "com.example.gadhvi.prodology2017"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287915603824-d9a1528i9ki9ecmh4n76ris6rkp77ich.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWPXPT1Ei0vOVI8xqUt5rGvJ7-vmZqLX8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287915603824-d9a1528i9ki9ecmh4n76ris6rkp77ich.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

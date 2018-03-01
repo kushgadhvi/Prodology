@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <group android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/Newsfeed"
+            android:icon="@drawable/ic_news"
+            android:title="Newsfeed" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/SetReminder"
+            android:icon="@drawable/ic_event_available_black_24dp"
+            android:title="SetReminder" />
+        <item
+            android:id="@+id/location"
+            android:icon="@drawable/ic_location"
+            android:title="Location" />
+        <item
+            android:id="@+id/committee"
+            android:icon="@drawable/ic_com"
+            android:title="Committee" />
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_about"
+            android:title="About us" />
+        <item
+            android:id="@+id/contact"
+            android:icon="@drawable/ic_con"
+            android:title="Contact Us" />
+        <item
+            android:id="@+id/spons"
+            android:title="Sponsors"
+            android:icon="@drawable/ic_spons"/>
+        <item
+            android:id="@+id/devp"
+            android:icon="@drawable/ic_dev"
+            android:title="Developers"/>
+
+    </group>
+</menu>
